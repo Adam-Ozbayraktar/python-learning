@@ -1,1 +1,1 @@
-Hello World! This is my first PUSH to Github
+This is a repo for my Python learning journey 
